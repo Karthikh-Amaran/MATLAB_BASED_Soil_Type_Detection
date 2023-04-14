@@ -6,3 +6,6 @@ This is a project where I used MATLAB and Deep Learning for identifying the soil
 3. Now keep this Dataset folder in the location where you are going to create the MATLAB Code.
 4. Now create a matlab file (.m) where you store rgb_analysis.m, test_network.m and training.m files.
 5. Now upload the other images given in the Git in the location where you save all the other folders and code.
+6. Now run the Testing.m file in MATLAB and Wait until it is completely trained.
+7. Later after the traning process now in Command Prompt of the matlab type "test_network(unknown1.jpg,net)"
+8. Now this will fetch the output by predicting the unknown image.
